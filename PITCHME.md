@@ -36,10 +36,10 @@
 
 <div class="east about-team-pic">
 <span style="color: #4487F2">성격</span>
-  동글동글함
+               동글동글함
 <br>
 <span style="color: #4487F2">연말계획</span>
-  Plan 2019, 제야의 종소리 듣기
+           Plan 2019, 제야의 종소리 듣기
 </div>
 
 
