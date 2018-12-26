@@ -36,11 +36,11 @@
 
 <div class="east about-team-pic span-100">
 <span style="color: #4487F2">성격</span>
+<br>
   동글
 <br>
 <span style="color: #4487F2">연말계획</span>
- <br> Plan
-  2019
+ <br> Plan 2019
 </div>
 
 
