@@ -34,12 +34,14 @@
 ![ljhface](https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg)
 </div>
 
-<div class="north-east about-team-pic span-100">
+<div class="east about-team-pic span-100">
 <span style="color: #4487F2">성격</span>
-                                     동글동글함
+  동글
+  동글
 <br>
 <span style="color: #4487F2">연말계획</span>
-                                     Plan 2019, 제야의 종소리 듣기
+  Plan 
+  2019
 </div>
 
 
