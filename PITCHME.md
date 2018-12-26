@@ -22,7 +22,7 @@
 </div>
 
 <div class="west about-team-pic">
-![ljhface](https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg)
+  배경
 </div>
 
 <div class="south-west text-06">
@@ -34,7 +34,7 @@ Graphic Designer
 </div>
 
 <div class="midpoint about-team-pic about-team-pic-center">
-![Image](./assets/md/assets/abby.jpg)
+![ljhface](https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg)
 </div>
 
 <div class="south text-06">
