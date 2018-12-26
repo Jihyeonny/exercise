@@ -34,7 +34,7 @@
 ![ljhface](https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg)
 </div>
 
-<div class="east about-team-pic">
+<div class="east about-team-pic span-100">
 <span style="color: #4487F2">성격</span>
                                      동글동글함
 <br>
