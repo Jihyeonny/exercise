@@ -1,5 +1,5 @@
 
-<!-- .slide: data-background-image="./assets/md/assets/pencils.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
+<!-- .slide: data-background-image="https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">About Templates</span>
 
@@ -24,7 +24,8 @@
 <div class="west about-team-pic">
 <span style="color: #4487F2">이름</span>
   이지현
-<br><br>
+<br>
+<span style="color: #4487F2">이름</span>
 <i class="fa fa-twitter" aria-hidden="true"> wendy</i>
 <br>
 Graphic Designer
