@@ -57,10 +57,9 @@
 <div class="west about-team-pic">
 <span style="color: #4487F2">이름</span>
   이지현
-<br><br>
-<i class="fa fa-twitter" aria-hidden="true"> wendy</i>
 <br>
-Graphic Designer
+<span style="color: #4487F2">별명</span>
+  보름달
 </div>
 
 <div class="south-west text-06">
@@ -71,26 +70,12 @@ Graphic Designer
 ![ljhface](https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg)
 </div>
 
-<div class="south text-06">
-<span style="color: #4487F2">Abby Bauer</span>
-<br><br>
-<i class="fa fa-github" aria-hidden="true"> abbycode</i>
+<div class="east about-team-pic span-100">
+<span style="color: #4487F2">성격</span>
 <br>
-Lead Developer
-</div>
-
-<div class="east about-team-pic">
-![Image](./assets/md/assets/berry.jpg)
-</div>
-
-<div class="south-east text-06">
-<span style="color: #4487F2">Berry Nguyen</span>
-<br><br>
-<i class="fa fa-linkedin" aria-hidden="true"> berryngu</i>
+  동글
 <br>
-Channel Marketing
+<span style="color: #4487F2">연말계획</span>
+ <br> Plan 2019
 </div>
 
-<div class="north-east template-note text-white">
-Team intro template.
-</div>
