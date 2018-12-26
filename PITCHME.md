@@ -22,15 +22,16 @@
 </div>
 
 <div class="west about-team-pic">
-  배경
-</div>
-
-<div class="south-west text-06">
-<span style="color: #4487F2">Wendy Sesay</span>
+<span style="color: #4487F2">이름</span>
+  이지현
 <br><br>
 <i class="fa fa-twitter" aria-hidden="true"> wendy</i>
 <br>
 Graphic Designer
+</div>
+
+<div class="south-west text-06">
+
 </div>
 
 <div class="midpoint about-team-pic about-team-pic-center">
