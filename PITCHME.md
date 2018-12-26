@@ -3,7 +3,7 @@
 
 <span class="menu-title" style="display: none">About Templates</span>
 
-## <span style="color: black">About<br>Slide Templates</span>
+## <span style="color: black">구미 1반<br>5조를 소개합니다.</span>
 
 <i class="fa fa-arrow-down text-black" aria-hidden="true"> </i>
 
@@ -22,7 +22,7 @@
 </div>
 
 <div class="west about-team-pic">
-![Image](./assets/md/assets/wendy.jpg)
+![ljhface](https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg)
 </div>
 
 <div class="south-west text-06">
