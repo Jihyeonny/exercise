@@ -1,5 +1,4 @@
-
-<!-- .slide: data-background-image="https://user-images.githubusercontent.com/29031406/50434284-2a03b400-0920-11e9-80b3-adc4ddb866d1.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
+<!-- .slide: data-background-image="https://user-images.githubusercontent.com/45954033/50435920-c466f600-0926-11e9-8981-afa9caddf550.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">About Templates</span>
 
@@ -10,7 +9,7 @@
 
 
 +++
-<!-- .slide: data-background-image="./assets/md/assets/blue.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
+<!-- .slide: data-background-image="https://user-images.githubusercontent.com/45954033/50435920-c466f600-0926-11e9-8981-afa9caddf550.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">Meet The Team</span>
 
@@ -46,7 +45,7 @@
 
 
 +++
-<!-- .slide: data-background-image="./assets/md/assets/blue.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
+<!-- .slide: data-background-image="https://user-images.githubusercontent.com/45954033/50435920-c466f600-0926-11e9-8981-afa9caddf550.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">Meet The Team</span>
 
